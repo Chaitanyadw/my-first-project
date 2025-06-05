@@ -1,5 +1,7 @@
 # my-first-project
-A simple hello world code. // Just to upload in github
+## A simple hello world code. 
+
+## Just to upload in github
 
 class Main{
  public static void main(String[] args){
